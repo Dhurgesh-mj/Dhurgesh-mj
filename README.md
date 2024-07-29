@@ -12,7 +12,7 @@ Cyber security Analyst
 ### IDE and Tools I Use
 <img width="50" height="50" src="https://img.icons8.com/dusk/64/visual-studio.png" alt="visual-studio"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/pycharm.png" alt="pycharm"/> <img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Ubuntu-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Ubuntu-logos-and-brands-those-icons-flat-those-icons"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 ![Dhurgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhurgesh-mj&theme=dark&show_icons=true&&hide=issues,contribs)
 [![Dhurgesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhurgesh-mj&bg_color=f1c9fe&color=000000&line=000000&point=53d5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
