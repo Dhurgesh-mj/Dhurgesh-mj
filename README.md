@@ -7,7 +7,7 @@ Cyber security Analyst | Bug Hunter | Security Researcher
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dhurgesh_m.j/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhurgesh-mj-439b802b2/)
-- 😄 Pronouns: Techie
+
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/c.png" alt="c"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/php.png" alt="php"/> 
 ### IDE and Tools I Use
