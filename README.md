@@ -2,7 +2,7 @@
 
 Cyber security Analyst
 <!--<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">-->
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<img width="28%" align='right' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 - 🔭 Here's my [portfolio](https://dhurgesh.zeal.party)                                                 
 - 💬 Ask me about Tech
