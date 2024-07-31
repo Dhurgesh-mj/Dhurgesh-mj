@@ -1,7 +1,9 @@
 ## Hi there 👋 It's me Dhurgesh
 
 Cyber security Analyst
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<!--<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">-->
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+
 - 🔭 Here's my [portfolio](https://dhurgesh.zeal.party)                                                 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
