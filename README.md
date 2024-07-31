@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Dhurgesh
 
-Cyber security Analyst
+Cyber security Analyst | Bug Hunter | Security Researcher
 <img align="right" width="370" height="290" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJzbW9vMW96Y3h3NGduMXoxbzl6aHdlbXRudHUwMXZqM3lja3dicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif">
 
 - 🔭 Here's my [portfolio](https://dhurgesh.zeal.party)                                                 
