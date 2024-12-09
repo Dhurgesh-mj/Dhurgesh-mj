@@ -31,7 +31,7 @@ Cyber security Analyst | Bug Hunter | Security Researcher
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
  
   ![Dhurgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhurgesh-mj&theme=dark&show_icons=true&&hide=issues,contribs)
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+ <p align="left"><a href="https://github.com/Dhurgesh-mj/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhurgesh-mj&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 
 <br><br>
