@@ -31,7 +31,7 @@ Cyber security Analyst | Bug Hunter | Security Researcher
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
  
   ![Dhurgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhurgesh-mj&theme=dark&show_icons=true&&hide=issues,contribs)
-  [![Dhurgesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhurgesh-mj&bg_color=f1c9fe&color=000000&line=000000&point=53d5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Dhurgesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhurgesh-mj&bg_color=f1c9fe&color=000000&line=000000&point=53d5fd&area=true&hide_border=true)](https://github.com/Dhurgesh-mj/github-readme-activity-graph)
 
 <br><br>
 
