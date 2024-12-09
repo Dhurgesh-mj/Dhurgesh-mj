@@ -21,7 +21,7 @@ Cyber security Analyst | Bug Hunter | Security Researcher
 
 👉 Still Learning Bug hunting & malware forensics.
 
-👉 Managing Tech Communities & Content creator.
+👉 Managing Tech Communities And Helping Them.
 
 👉 Writing Some Useful Tools For Myself & Communities
 
