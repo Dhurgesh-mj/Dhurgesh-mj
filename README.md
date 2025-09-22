@@ -3,7 +3,7 @@
 Cyber security Analyst | Bug Hunter | Security Researcher
 <img align="right" width="370" height="290" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJzbW9vMW96Y3h3NGduMXoxbzl6aHdlbXRudHUwMXZqM3lja3dicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif">
 
-- 🔭 Here's my [portfolio](https://dhurgesh.zeal.party)                                                 
+- 🔭 Here's my [portfolio](https://dhurgesh.selfmade.social/)                                                 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dhurgesh_m.j/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhurgesh-mj-439b802b2/)
