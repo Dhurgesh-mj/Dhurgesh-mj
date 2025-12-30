@@ -28,7 +28,6 @@ Cyber security Analyst | Bug Hunter | Security Researcher
 👉 Building & Contributing To Open Source Projects
 
 👉 Currently Learning mobile pentesting & web3 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
  
 
 
