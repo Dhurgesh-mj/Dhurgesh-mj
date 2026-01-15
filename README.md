@@ -1,36 +1,88 @@
-## Hi there 👋 It's me Dhurgesh
+<h1 align="center">Hi 👋, I'm Dhurgesh</h1>
+<h3 align="center">Cyber Security Analyst | Bug Hunter | Security Researcher</h3>
 
-Cyber security Analyst | Bug Hunter | Security Researcher
-<img align="right" width="370" height="290" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJzbW9vMW96Y3h3NGduMXoxbzl6aHdlbXRudHUwMXZqM3lja3dicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif">
+<p align="center">
+  <a href="https://dhurgesh.selfmade.plus/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dhurgesh-mj-439b802b2/" target="_blank">LinkedIn</a> •
+  <a href="https://www.instagram.com/dhurgesh_m.j/" target="_blank">Instagram</a>
+</p>
 
-- 🔭 Here's my [portfolio](https://dhurgesh.selfmade.plus/)                                                 
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dhurgesh_m.j/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhurgesh-mj-439b802b2/)
+<p align="center">
+  <img src="https://i.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="360"/>
+</p>
 
-### I code in
-<img width="50" height="50" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/c.png" alt="c"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/php.png" alt="php"/> 
-### IDE and Tools I Use
-<img width="50" height="50" src="https://img.icons8.com/dusk/64/visual-studio.png" alt="visual-studio"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/pycharm.png" alt="pycharm"/> <img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Ubuntu-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Ubuntu-logos-and-brands-those-icons-flat-those-icons"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
+---
 
-<h2 id="present_status"> Present Status </h3>
+## 🧑‍💻 About Me
+- 🔐 Cyber Security Analyst & Bug Hunter  
+- 🐞 Focused on **Web, API & Mobile Pentesting**
+- 🧠 Interested in **Malware Analysis & Forensics**
+- 🛠️ Building **security automation tools**
+- 🌱 Currently learning **Web3 & Mobile Security**
+- 🤝 Managing & helping **Tech Communities**
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+---
 
-👉 Still Learning Bug hunting & malware forensics.
+## ⚙️ Tech Stack
+### 🧠 Languages
+<p>
+  <img src="https://img.icons8.com/clouds/100/python.png" width="50"/>
+  <img src="https://img.icons8.com/cute-clipart/64/c.png" width="50"/>
+  <img src="https://img.icons8.com/dusk/64/php.png" width="50"/>
+</p>
 
-👉 Managing Tech Communities And Helping Them.
+### 🛠️ Tools & OS
+<p>
+  <img src="https://img.icons8.com/plasticine/100/pycharm.png" width="50"/>
+  <img src="https://img.icons8.com/dusk/64/visual-studio.png" width="50"/>
+  <img src="https://img.icons8.com/plasticine/100/kali-linux.png" width="50"/>
+  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/64/external-Ubuntu-logos-and-brands-those-icons-flat-those-icons.png" width="50"/>
+</p>
 
-👉 Writing Some Useful Tools For Myself & Communities
+---
 
-👉 Building & Contributing To Open Source Projects
+## 🧪 Security Focus Areas
+- 🔍 Web & API Pentesting  
+- 🧨 Bug Bounty Hunting  
+- 🕵️ Malware Analysis & Forensics  
+- 🔐 Authentication & Authorization Testing  
+- ⚡ WAF & Rate-Limit Bypass Research  
 
-👉 Currently Learning mobile pentesting & web3 
- 
+---
 
-[<img="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67"]
+## 🚧 Current Work
+- 🧠 Learning **Advanced Bug Bounty Methodologies**
+- 🛠️ Building **custom pentesting & recon tools**
+- 🌐 Contributing to **Open Source Security Projects**
+- 🧪 Researching **Mobile & Web3 Security**
 
-<br><br>
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhurgeshMJ&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhurgeshMJ&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Platforms (Add later)
+- 🐞 Bugcrowd / HackerOne Reports
+- 🧠 CTF Participation
+- 🏅 Security Certifications
+- ⭐ Open Source Contributions
+
+---
+
+## 🤝 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/dhurgesh-mj-439b802b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/dhurgesh_m.j/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
