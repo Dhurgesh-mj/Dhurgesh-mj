@@ -30,7 +30,7 @@ Cyber security Analyst | Bug Hunter | Security Researcher
 👉 Currently Learning mobile pentesting & web3 
  
 
-https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67
+[<img="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67"]
 
 <br><br>
 
