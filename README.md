@@ -22,7 +22,6 @@
 ---
 
 ## 🧑‍💻 About Me
-```bash
 $ whoami
 → Cyber Security Analyst & Bug Hunter
 
