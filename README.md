@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhurgesh</h1>
-<h3 align="center">Cyber Security Analyst | Bug Hunter | Security Researcher</h3>
+<h3 align="center">Cyber Security Analyst | Bug Hunter | Security Researcher | Malware development </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Bug+Hunter+%7C+Security+Researcher;Web+%7C+API+%7C+Mobile+Pentesting;Malware+Analysis+%26+Forensics;Building+Offensive+Security+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Bug+Hunter+%7C+Security+Researcher;Web+%7C+API+%7C+Mobile+Pentesting;Malware+Development+%26+Forensics;Building+Offensive+Security+Tools" />
 </p>
 
 <p align="center">
