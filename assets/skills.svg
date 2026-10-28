@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350">
+<defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#00ff9c"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>
+<rect width="900" height="350" rx="12" fill="#0b0f1a" stroke="#00ff9c" stroke-opacity=".4"/>
+<text x="40" y="36" fill="#ff2e63" font-family="Courier New,monospace" font-size="14" letter-spacing="3">&gt; POWER LEVELS (self-assessed, humility not found)</text>
+<text x="40" y="70" fill="#c9d1d9" font-family="Courier New,monospace" font-size="15">PYTHON</text>
+<rect x="260" y="56" width="520" height="14" rx="3" fill="#141b2d"/>
+<rect x="260" y="56" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;478.40000000000003;478.40000000000003;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="800" y="70" fill="#00ff9c" font-family="Courier New,monospace" font-size="15">92%</text><text x="40" y="114" fill="#c9d1d9" font-family="Courier New,monospace" font-size="15">JAVASCRIPT / TS</text>
+<rect x="260" y="100" width="520" height="14" rx="3" fill="#141b2d"/>
+<rect x="260" y="100" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;468.0;468.0;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.25s" repeatCount="indefinite"/></rect>
+<text x="800" y="114" fill="#00ff9c" font-family="Courier New,monospace" font-size="15">90%</text><text x="40" y="158" fill="#c9d1d9" font-family="Courier New,monospace" font-size="15">REACT / NEXT</text>
+<rect x="260" y="144" width="520" height="14" rx="3" fill="#141b2d"/>
+<rect x="260" y="144" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;457.6;457.6;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.5s" repeatCount="indefinite"/></rect>
+<text x="800" y="158" fill="#00ff9c" font-family="Courier New,monospace" font-size="15">88%</text><text x="40" y="202" fill="#c9d1d9" font-family="Courier New,monospace" font-size="15">NODE / APIs</text>
+<rect x="260" y="188" width="520" height="14" rx="3" fill="#141b2d"/>
+<rect x="260" y="188" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;442.0;442.0;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.75s" repeatCount="indefinite"/></rect>
+<text x="800" y="202" fill="#00ff9c" font-family="Courier New,monospace" font-size="15">85%</text><text x="40" y="246" fill="#c9d1d9" font-family="Courier New,monospace" font-size="15">DOCKER / LINUX</text>
+<rect x="260" y="232" width="520" height="14" rx="3" fill="#141b2d"/>
+<rect x="260" y="232" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;405.6;405.6;0" keyTimes="0;.25;.9;1" dur="8s" begin="1.0s" repeatCount="indefinite"/></rect>
+<text x="800" y="246" fill="#00ff9c" font-family="Courier New,monospace" font-size="15">78%</text><text x="40" y="290" fill="#c9d1d9" font-family="Courier New,monospace" font-size="15">AI / ML</text>
+<rect x="260" y="276" width="520" height="14" rx="3" fill="#141b2d"/>
+<rect x="260" y="276" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;384.8;384.8;0" keyTimes="0;.25;.9;1" dur="8s" begin="1.25s" repeatCount="indefinite"/></rect>
+<text x="800" y="290" fill="#00ff9c" font-family="Courier New,monospace" font-size="15">74%</text>
+<text x="40" y="332" fill="#5b6b8c" font-family="Courier New,monospace" font-size="12">scan complete · weaknesses: none detected</text>
+</svg>
