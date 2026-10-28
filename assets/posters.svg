@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370">
+<defs><filter id="pb" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+<linearGradient id="pf" x1="0" y1="0" x2="0" y2="1"><stop offset=".35" stop-color="#0c0e15" stop-opacity="0"/><stop offset=".7" stop-color="#0c0e15" stop-opacity=".95"/></linearGradient></defs>
+<g transform="translate(30,20)">
+<clipPath id="c0"><rect width="270" height="330" rx="6"/></clipPath>
+<g clip-path="url(#c0)">
+<rect width="270" height="330" fill="#0c0e15"/>
+<g filter="url(#pb)"><circle cx="135" cy="120" r="70" fill="#f5b971" opacity=".55"><animate attributeName="cx" values="90;180;90" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="100;150;100" dur="11s" repeatCount="indefinite"/></circle></g>
+<rect width="270" height="330" fill="url(#pf)"/>
+<text x="135" y="212" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="26" letter-spacing="4" fill="#f1ede4">SUBDOMINATOR V2</text>
+<line x1="105" x2="165" y1="228" y2="228" stroke="#f5b971"/>
+<text x="135" y="252" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="13" fill="#f1ede4" opacity=".75">Every subdomain. Found before it finishes loading.</text>
+<text x="135" y="300" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="9" letter-spacing="4" fill="#8a8f9c">THRILLER · 2025</text>
+<text x="135" y="318" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" letter-spacing="3" fill="#f5b971">★ 9.8</text>
+</g><rect width="270" height="330" rx="6" fill="none" stroke="#f5b971" stroke-opacity=".35"/></g><g transform="translate(315,20)">
+<clipPath id="c1"><rect width="270" height="330" rx="6"/></clipPath>
+<g clip-path="url(#c1)">
+<rect width="270" height="330" fill="#0c0e15"/>
+<g filter="url(#pb)"><circle cx="135" cy="120" r="70" fill="#6fa8dc" opacity=".55"><animate attributeName="cx" values="90;180;90" dur="12s" repeatCount="indefinite"/><animate attributeName="cy" values="100;150;100" dur="13s" repeatCount="indefinite"/></circle></g>
+<rect width="270" height="330" fill="url(#pf)"/>
+<text x="135" y="212" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="26" letter-spacing="4" fill="#f1ede4">SHINOBIJS</text>
+<line x1="105" x2="165" y1="228" y2="228" stroke="#6fa8dc"/>
+<text x="135" y="252" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="13" fill="#f1ede4" opacity=".75">Reads your JavaScript. Leaves no trace.</text>
+<text x="135" y="300" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="9" letter-spacing="4" fill="#8a8f9c">NOIR · 2025</text>
+<text x="135" y="318" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" letter-spacing="3" fill="#6fa8dc">★ 9.6</text>
+</g><rect width="270" height="330" rx="6" fill="none" stroke="#6fa8dc" stroke-opacity=".35"/></g><g transform="translate(600,20)">
+<clipPath id="c2"><rect width="270" height="330" rx="6"/></clipPath>
+<g clip-path="url(#c2)">
+<rect width="270" height="330" fill="#0c0e15"/>
+<g filter="url(#pb)"><circle cx="135" cy="120" r="70" fill="#c9707f" opacity=".55"><animate attributeName="cx" values="90;180;90" dur="15s" repeatCount="indefinite"/><animate attributeName="cy" values="100;150;100" dur="15s" repeatCount="indefinite"/></circle></g>
+<rect width="270" height="330" fill="url(#pf)"/>
+<text x="135" y="212" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="26" letter-spacing="4" fill="#f1ede4">QUANTUMVAULT</text>
+<line x1="105" x2="165" y1="228" y2="228" stroke="#c9707f"/>
+<text x="135" y="252" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="13" fill="#f1ede4" opacity=".75">Encrypted. Layered. Not your files anymore.</text>
+<text x="135" y="300" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="9" letter-spacing="4" fill="#8a8f9c">SCI-FI · 2026</text>
+<text x="135" y="318" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" letter-spacing="3" fill="#c9707f">★ 9.9</text>
+</g><rect width="270" height="330" rx="6" fill="none" stroke="#c9707f" stroke-opacity=".35"/></g></svg>

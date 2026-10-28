@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+<style>.l{font:12px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#f5b971;letter-spacing:10px;text-anchor:middle}.g{stroke:#8a8f9c;stroke-opacity:.35}</style>
+<line class="g" x1="60" y1="35" x2="320" y2="35"/><line class="g" x1="580" y1="35" x2="840" y2="35"/>
+<text class="l" x="455" y="39">THE CITY</text>
+<circle r="2" cy="35" fill="#f5b971"><animate attributeName="cx" values="60;320;60" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="2" cy="35" fill="#f5b971"><animate attributeName="cx" values="840;580;840" dur="7s" repeatCount="indefinite"/></circle>
+</svg>

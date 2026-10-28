@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<defs><linearGradient id="fg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".22" stop-color="#fff"/><stop offset=".78" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m"><rect width="900" height="420" fill="url(#fg)"/></mask></defs>
+<style>
+.h{font:11px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#f5b971;letter-spacing:8px;text-anchor:middle}
+.r{font:11px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8a8f9c;letter-spacing:3px;text-anchor:end}
+.n{font:italic 17px Georgia,'Times New Roman',serif;fill:#f1ede4}
+.end{font:400 40px Georgia,'Times New Roman',serif;fill:#f1ede4;letter-spacing:14px;text-anchor:middle}
+.r2{font:10px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8a8f9c;letter-spacing:6px;text-anchor:middle}
+.roll{animation:roll 26s linear infinite}
+@keyframes roll{from{transform:translateY(420px)}to{transform:translateY(-670px)}}
+</style>
+<rect width="900" height="420" fill="#07080c"/>
+<g mask="url(#m)"><g class="roll"><text class="h" x="450" y="40">STARRING</text><text class="r" x="430" y="76">LANGUAGES</text><text class="n" x="470" y="76">Python · C · C++ · PHP</text><text class="r" x="430" y="106">RECON &amp; WEB</text><text class="n" x="470" y="106">Subdomain Enum · LFI · JS Recon</text><text class="r" x="430" y="136">OFFENSIVE</text><text class="n" x="470" y="136">Process Injection · Malware Dev</text><text class="h" x="450" y="210">SPECIAL EFFECTS</text><text class="r" x="430" y="246">PLATFORMS</text><text class="n" x="470" y="246">Kali Linux · Ubuntu</text><text class="r" x="430" y="276">CRYPTO</text><text class="n" x="470" y="276">Multi-layer Encryption</text><text class="r" x="430" y="306">ASYNC ENGINE</text><text class="n" x="470" y="306">Python asyncio, built for speed</text><text class="h" x="450" y="380">STUNTS PERFORMED BY</text><text class="r" x="430" y="416">BUG BOUNTY HUNTS</text><text class="n" x="470" y="416">Himself</text><text class="r" x="430" y="446">AUTH BYPASSES</text><text class="n" x="470" y="446">Himself</text><text class="r" x="430" y="476">3 AM RECON RUNS</text><text class="n" x="470" y="476">Himself</text><text class="end" x="450" y="560">DHURGESH MJ</text><text class="r2" x="450" y="590">THANKS FOR WATCHING</text></g></g>
+<rect x=".5" y=".5" width="899" height="419" fill="none" stroke="#8a8f9c" stroke-opacity=".25"/>
+</svg>
