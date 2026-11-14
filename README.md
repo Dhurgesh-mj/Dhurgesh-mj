@@ -14,8 +14,6 @@
 
 ![](./assets/l_city.svg)
 
-![contribution city](https://www.gitskins.com/api/section/city?username=dhurgesh-mj&theme=aurora)
-
 ![the end](./assets/end.svg)
 
 </div>
